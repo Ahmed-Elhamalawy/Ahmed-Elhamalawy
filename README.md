@@ -107,10 +107,18 @@ Frontend developer with expertise in React.js, focused on building high-performa
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elhamalawy&layout=compact&theme=radical&count_private=true&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Elhamalawy&theme=radical)](https://git.io/streak-stats)
+
+
 
 ---
 
-⭐️ From [Ahmed Elhamalawy](https://github.com/YourGitHubUsername)
+
+
+⭐️ From [Ahmed Elhamalawy](https://github.com/Ahmed-Elhamalawy)
